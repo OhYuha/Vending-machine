@@ -18,9 +18,6 @@ input.onButtonPressed(Button.A, function () {
         . # . # .
         `)
 })
-input.onButtonPressed(Button.AB, function () {
-    pins.analogWritePin(AnalogPin.P2, 0)
-})
 input.onButtonPressed(Button.B, function () {
     pins.analogWritePin(AnalogPin.P2, 1023)
 })
