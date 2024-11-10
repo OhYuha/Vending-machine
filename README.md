@@ -1,7 +1,7 @@
 
 > 이 페이지를 [https://ohyuha.github.io/vending-machine/](https://ohyuha.github.io/vending-machine/)으로 열기
 
-## 확장으로 사용
+## 오유하 자유시간 자판기
 
 이 저장소는 MakeCode에서 **확장**으로 추가될 수 있습니다.
 
