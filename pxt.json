@@ -1,5 +1,6 @@
 {
     "name": "자판기 코딩 ver 1.0 (자유시간)",
+    "version": "0.1.0",
     "description": "",
     "dependencies": {
         "core": "*",
