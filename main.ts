@@ -20,6 +20,8 @@ input.onButtonPressed(Button.A, function () {
 })
 input.onButtonPressed(Button.B, function () {
     pins.analogWritePin(AnalogPin.P2, 1023)
+    basic.pause(5000)
+    pins.analogWritePin(AnalogPin.P2, 0)
 })
 basic.showLeds(`
     . . # . .
